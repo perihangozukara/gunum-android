@@ -1,0 +1,16 @@
+{
+  "appId": "com.peri.gunum",
+  "appName": "Günüm",
+  "webDir": "www",
+  "backgroundColor": "#171513",
+  "plugins": {
+    "SystemBars": {
+      "insetsHandling": "native",
+      "initialViewportFitValueHint": "contain"
+    },
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_gunum",
+      "iconColor": "#2F8F73"
+    }
+  }
+}
